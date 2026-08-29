@@ -1,0 +1,33 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    background: #000;
+    color:rgb(31, 167, 59);
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+.page1{
+  height:100vh;
+  width:100%;
+  background-color: #bbbd0d;
+}
+.page2{
+  height:100vh;
+  width:100%;
+  background-color: #137095;
+}
+.page3{
+  height:100vh;
+  width:100%;
+  background-color: #118348;
+}
+.page4{
+  height:100vh;
+  width:100%;
+  background-color: #5b3a15;
+}
