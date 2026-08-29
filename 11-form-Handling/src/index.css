@@ -1,0 +1,8 @@
+body,html{
+  background: #000;
+  color:beige
+}
+input,button{
+  padding:10px 20px;
+  margin:20px;
+}
