@@ -19,6 +19,7 @@ const App = () => {
         {data.map(function(elem,idx){
 
           return <h3>Hello, {elem.author} {idx}</h3>
+          
         })}
       </div>
     </div>
